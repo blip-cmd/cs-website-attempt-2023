@@ -11,7 +11,6 @@ To clone and set up the project, follow these steps:
 
 Author Information
 Author: Ryan Brown
-Screenshots
 
 Below are screenshots of each page of the website:
 
@@ -28,7 +27,7 @@ Contact Page
 
 
 Events Page
-![Events Pagr Screenshot](img/eventspage.jpeg)
+![Events Page Screenshot](img/eventspage.jpeg)
 
 MPhil / BSC Programme Page
 ![MPhil / BSC Programme Page Screenshot](img/mphilpage.jpeg)
